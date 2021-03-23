@@ -1,0 +1,13 @@
+https://www.woolworths.com.au/shop/browse/specials/half-price,"//a[contains(@class,'shelfProductTile-descriptionLink')]/@href"
+https://www.witchery.com.au/sale/#catpage=7,//h2//a/@href
+https://www.styletread.com.au/sale.html?ic=mm-sale,//div[@class='product-tile']//a/@href
+https://www.bonds.com.au/sale/mens/underwear.html,//div[@class='result-wrapper']//a/@href
+https://www.countryroad.com.au/sale/woman/clothing/#catpage=2,//figure//a/@href
+https://www.prettylittlething.com.au/sale/view-all-sale.html?id=283&page=6&ajax=0,"//main[contains(@class,'page-main')]//ancestor::a[contains(@class,'product-url')]/@href"
+https://peppermayo.com/collections/sale,"//div[contains(@class,'collection')]//ancestor::div[contains(@class,'product-item')]/a/@href"
+https://www.princesspolly.com.au/collections/sale-pants,"//div[contains(@class,'product-tiles')]//ancestor::a[contains(@class,'product-tile__name')]/@href"
+https://www.underarmour.com.au/en-au/mens-outlet/,//div[@class='product-name']//a[@class='name-link']/@href
+https://www.smiggle.com.au/shop/en/smiggle/all-sale,"//div[contains(@class,'product__list')]/descendant::a[contains(@class,'product__item--description')]/@href"
+https://www.asos.com/au/women/sale/cat/?cid=7046&nlid=ww|sale|shop+by+product|sale+view+all,//article//a//@href
+https://www.dotti.com.au/shop/en/dotti/all-sale,"//section[contains(@class,'category__product')]//a[contains(@class,'product__item--description')]/@href"
+https://www.costco.com.au/c/last-chance?sort=relevance&query=:relevance:category:cos_15.2.8:category:cos_15.2.6:category:cos_15.2.2:category:cos_15.2.10:category:cos_15.1.4:category:cos_15.1.5:category:cos_15.2.4:category:cos_15.2.7,"//ul//a[contains(@class,'lister-name js-lister-name ng-star-inserted')]/@href"
