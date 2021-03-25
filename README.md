@@ -29,6 +29,7 @@ To achieve this, Selenium Chrome Webdriver and FTP Utilities have been used.
   - To write xpaths you can refer this [xpath cheatsheet](https://devhints.io/xpath)
   - To run this project you can direct to the folder containing main.py file and hit below command to execute the project 
     > **python main.py**
+  
     OR if you are comfortable with PyCharm, then you will have to open project directory in PyCharm and set the Configuration by setting up path to main.py as a Script Path and then Run the project by clicking on little green play arrow
   
 # Files used to run the code and directories/files created after it's execution are:
