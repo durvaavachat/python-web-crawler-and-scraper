@@ -24,9 +24,12 @@ To achieve this, Selenium Chrome Webdriver and FTP Utilities have been used.
 # Let's see Installation of Python and it's modules/libraries using pip
   - [Python and Selenium installation](https://www.youtube.com/watch?v=Xjv1sY630Uc)
   - To install the available Python modules and libraries you can use pip command 
-  > e.g. type command **pip install selenium** in command prompt and hit enter. It will install selenium in your virtual environment.
+    e.g. type below command in command prompt and hit enter. It will install selenium in your virtual environment.
+    > **pip install selenium**
   - To write xpaths you can refer this [xpath cheatsheet](https://devhints.io/xpath)
-  - To run this project you can direct to the main.py file in root directory and hit command **python main.py** to execute the project OR if you are comfortable using PyCharm, then you will have to open project directory in PyCharm and set the Configuration by setting up path to main.py as Script Path and then Run project using PyCharm
+  - To run this project you can direct to the folder containing main.py file and hit below command to execute the project 
+    > **python main.py**
+    OR if you are comfortable with PyCharm, then you will have to open project directory in PyCharm and set the Configuration by setting up path to main.py as a Script Path and then Run the project by clicking on little green play arrow
   
 # Files used to run the code and directories/files created after it's execution are:
 - CSV file
