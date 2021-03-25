@@ -39,11 +39,16 @@ To achieve this, Selenium Chrome Webdriver and FTP Utilities have been used.
   ![Contents of  csv file](https://user-images.githubusercontent.com/27036102/112404024-a685d700-8d63-11eb-89c7-6bfe217e48e1.png)
 
 - Directories and files uploaded on FTP:
+  Directories named as Category name on server
+  [Posts on Category page.pdf](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201674/Posts.on.Category.page.pdf)
+  
+  Specials page
+  [Links of Posts on a Category page.pdf](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201677/Links.of.Posts.on.a.Category.page.pdf)
 
-  [Directories named as Category name on server](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201624/Category.directories.on.FTP.pdf)
+  Individual product pages
+  [Category directories on FTP.pdf](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201676/Category.directories.on.FTP.pdf)
 
-  [Specials page](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201628/Links.of.Posts.on.a.Category.page.pdf)
 
-  [Individual product pages](https://github.com/durvaavachat/python-web-crawler-and-scraper/files/6201626/Posts.on.Category.page.pdf)
+
 
 
